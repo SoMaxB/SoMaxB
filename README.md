@@ -7,6 +7,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=SoMaxB&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=SoMaxB&theme=tokyonight"></p>
 
+*Learning: C - Next: Django*
 
 > In progress...
 <!--
