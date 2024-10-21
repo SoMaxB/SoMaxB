@@ -12,6 +12,8 @@
 
 > In progress...
 <!--
+Solucionar el top-langs.
+Cambiar la imagen de stats por el logo de GitHub.
 **SoMaxB/SoMaxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
