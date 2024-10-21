@@ -3,7 +3,7 @@
 - 42Madrid Student 📚
 - Codédex Discord Mod 🔨
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoMaxB&layout=compact&hide=TSQL&theme=tokyonight"></p>
+<!--p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoMaxB&layout=compact&hide=TSQL&theme=tokyonight"></p-->
 
 <!--p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoMaxB&layout=compact"></p>-->
 
