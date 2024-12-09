@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoMaxB&layout=compact&hide=TSQL&theme=tokyonight" height="170">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SoMaxB&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" height="170"></p> <!--width="400-->
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=SoMaxB&theme=tokyonight"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=SoMaxB&theme=tokyonight" height="170"></p>
 
 > In progress...
 <!--
