@@ -7,8 +7,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SoMaxB&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" height="170"></p> <!--width="400-->
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=SoMaxB&theme=tokyonight" height="170"></p>
 
-
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoMaxB&theme=tokyonight" alt="SoMaxb's GitHub Stats"/>
+</div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/SoMaxB/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 > In progress...
 <!--
 Solucionar el top-langs.
