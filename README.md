@@ -10,9 +10,7 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoMaxB&theme=tokyonight" alt="SoMaxb's GitHub Stats"/>
 </div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/SoMaxB/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+
 > In progress...
 <!--
 Solucionar el top-langs.
