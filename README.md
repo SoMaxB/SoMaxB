@@ -1,22 +1,41 @@
 ## Hi there, I'm Max. 👋
-- Python Lover 🐍
-- 42Madrid Student 📚
-- Codédex Discord Mod 🔨
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoMaxB&layout=compact&hide=TSQL&theme=tokyonight" height="170">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SoMaxB&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" height="170"></p> <!--width="400-->
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=SoMaxB&theme=tokyonight" height="170"></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Engineer+%C2%B7+C%2FC%2B%2B+%C2%B7+Linux;Systems+%C2%B7+Networks+%C2%B7+Web+Full%E2%80%91Stack;42+Madrid+outercore"
+      alt="Typing SVG"
+    >
+  </a>
+</p>
 
-<!-- <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoMaxB&theme=tokyonight" alt="SoMaxb's GitHub Stats"/>
-</div> -->
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=SoMaxB&layout=donut-vertical&langs_count=10&theme=tokyonight"
+        height="400"
+        alt="Top Languages"
+      >
+    </td>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=SoMaxB&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"
+        height="400"
+        alt="GitHub Stats"
+      >
+    </td>
+  </tr>
+</table>
 
-> In progress...
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoMaxB&theme=tokyonight"
+    width="760"
+    alt="GitHub Profile Summary"
+  >
+</p>
 <!--
-Solucionar el top-langs.
-Cambiar la imagen de stats por el logo de GitHub.
-**SoMaxB/SoMaxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
