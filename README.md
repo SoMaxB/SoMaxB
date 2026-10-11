@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Engineer+%C2%B7+C%2FC%2B%2B+%C2%B7+Linux;Systems+%C2%B7+Networks+%C2%B7+Web+Full%E2%80%91Stack;42+Madrid+outercore"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Software+Developer+%C2%B7+C%2FC%2B%2B+%C2%B7+Linux+Systems+%C2%B7+Networks+%C2%B7;42+Madrid+outercore"
       alt="Typing SVG"
     >
   </a>
